@@ -31,7 +31,7 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 
 ## Referências
 
-[How to display a .ipynb file on github?](https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github)
+- [How to display a .ipynb file on github?](https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github)
 
 - [Running S3 Object Storage Locally with MinIO](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
 
