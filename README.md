@@ -14,10 +14,10 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 
 - [Running S3 Object Storage Locally with MinIO](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
 
-## Datasets
+## Dataset
 
-- ~~[People Analytics Starter - Free Dataset](https://www.linkedin.com/pulse/people-analytics-starter-free-dataset-steven-shoemaker?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)~~
-- [HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/)
+
+- [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Ferramentas Utilizadas
 
