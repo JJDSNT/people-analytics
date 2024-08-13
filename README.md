@@ -11,7 +11,7 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 - [The dbt Semantic Layer, Data Orchestration, and the Modern Enterprise Data Stack](https://blog.rittmananalytics.com/the-dbt-semantic-layer-data-orchestration-and-the-modern-enterprise-data-stack-78d9d9ed5c18)
 - [Building Up a Semantic Layer with dbt Metrics, Cube, and Droughty](https://odupuis.medium.com/building-up-a-semantic-layer-with-dbt-metrics-cube-and-droughty-2a61b01517a6)
 
-- (https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
+- [Minio](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
 
 ## Datasets
 
