@@ -74,4 +74,4 @@ Alternativamente, você pode usar testes mais simples, como ANOVA de uma via ou 
 Originalmente, o conjunto de dados foi publicado no site da IBM, mas foi removido desde então. No entanto, ele ainda está disponível no [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). Observe que, no arquivo original da IBM, havia uma segunda planilha chamada "Data Definitions". No Kaggle, essas definições de dados foram incluídas na descrição do arquivo.
 
 
-[7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics)
+Fonte: [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics)
