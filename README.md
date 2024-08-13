@@ -12,7 +12,7 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 - [Building Up a Semantic Layer with dbt Metrics, Cube, and Droughty](https://odupuis.medium.com/building-up-a-semantic-layer-with-dbt-metrics-cube-and-droughty-2a61b01517a6)
 - [Introducing dbt integration with Cube](https://cube.dev/blog/introducing-dbt-integration-with-cube)
 
-- [Minio](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
+- [Running S3 Object Storage Locally with MinIO](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
 
 ## Datasets
 
