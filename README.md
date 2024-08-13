@@ -16,10 +16,13 @@ https://www.aihr.com/blog/hr-data-sets-people-analytics/
 
 
 possiveis ferramentas:
-airflow
-dbt
+Coleta de Dados: Os dados são armazenados em DuckDB.
+Transformação de Dados: dbt é utilizado para transformar e modelar os dados, além de definir métricas reutilizáveis.
+Camada Semântica e APIs: Cube.js serve as métricas e dados transformados como APIs para visualizações e consultas.
+Orquestração: Airflow orquestra e automatiza a execução dos pipelines.
+Catálogo e Governança:
+
 droughty
-cubejs
 scikit
 
 
