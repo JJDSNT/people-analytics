@@ -1,6 +1,6 @@
 # People Analytics
 
-Este é o primeiro projeto de People Analytics desenvolvido com o objetivo de criar um projeto end-to-end para aprendizagem e portfólio. O projeto visa demonstrar habilidades em análise de dados, modelagem preditiva, visualização de dados e storytelling com dados.
+Este é o meu primeiro projeto de People Analytics desenvolvido com o objetivo de criar um projeto end-to-end para aprendizagem e portfólio. O projeto visa demonstrar habilidades em análise de dados, modelagem preditiva, visualização de dados e storytelling com dados.
 
 ## Objetivo
 
