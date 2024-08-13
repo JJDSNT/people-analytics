@@ -16,7 +16,7 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 
 ## Datasets
 
-- [People Analytics Starter - Free Dataset](https://www.linkedin.com/pulse/people-analytics-starter-free-dataset-steven-shoemaker?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
+- ~~[People Analytics Starter - Free Dataset](https://www.linkedin.com/pulse/people-analytics-starter-free-dataset-steven-shoemaker?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)~~
 - [HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/)
 
 ## Ferramentas Utilizadas
