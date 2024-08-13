@@ -22,6 +22,7 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 - [dbt (Data Build Tool)](https://www.getdbt.com/): Transformação de dados e criação de camadas semânticas.
 - [DuckDB](https://duckdb.org/): Motor de banco de dados embutido para análise de dados.
 - [Cube.js](https://cube.dev/): Camada de API de dados e analytics.
+- [synmetrix](https://github.com/synmetrix/synmetrix)
 - [Droughty](https://pypi.org/project/droughty/): Ferramenta para construção de camadas semânticas.
 - [Scikit-learn](https://scikit-learn.org/stable/): Biblioteca para modelagem e aprendizado de máquina.
 
