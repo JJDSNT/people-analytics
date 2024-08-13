@@ -2,6 +2,7 @@
 Primeiro projeto de people analytcs
 
 O objetivo é criar um projeto end to end para aprendizagem e portifolio
+Um projeto end-to-end em People Analytics para seu portfólio pode ser uma excelente forma de demonstrar suas habilidades em análise de dados, modelagem preditiva, visualização, e storytelling com dados.
 
 https://blog.rittmananalytics.com/the-dbt-semantic-layer-data-orchestration-and-the-modern-enterprise-data-stack-78d9d9ed5c18
 
