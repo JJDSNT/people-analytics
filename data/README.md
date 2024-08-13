@@ -24,13 +24,13 @@ Essas variáveis fornecem uma visão geral bastante completa que inclui os dados
 
 ## Desafio
 
-Este conjunto de dados abre várias possibilidades de análise. Uma das mais interessantes pode ser encontrar preditores usando árvores de decisão ou regressão logística. **Nota:** Confira a apresentação de Pasha Robert sobre por que você não deve usar regressão logística para prever a rotatividade antes de seguir essa abordagem!
+Este conjunto de dados abre várias possibilidades de análise. Uma das mais interessantes pode ser encontrar preditores usando árvores de decisão ou regressão logística. **Nota:** Confira a apresentação de Pasha Robert sobre [por que você não deve usar regressão logística para prever a rotatividade](https://pt.slideshare.net/slideshow/1345-keynote-roberts/76038388) antes de seguir essa abordagem!
 
 Alternativamente, você pode usar testes mais simples, como ANOVA de uma via ou testes qui-quadrado, para encontrar diferenças entre os grupos que saíram e os que permaneceram, em fatores como satisfação no trabalho e se eles tinham ou não opções de ações.
 
 ## Download
 
-Originalmente, o conjunto de dados foi publicado no site da IBM, mas foi removido desde então. No entanto, ele ainda está disponível no Kaggle (espelho). Observe que, no arquivo original da IBM, havia uma segunda planilha chamada "Data Definitions". No Kaggle, essas definições de dados foram incluídas na descrição do arquivo.
+Originalmente, o conjunto de dados foi publicado no site da IBM, mas foi removido desde então. No entanto, ele ainda está disponível no [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). Observe que, no arquivo original da IBM, havia uma segunda planilha chamada "Data Definitions". No Kaggle, essas definições de dados foram incluídas na descrição do arquivo.
 
 
 [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics)
