@@ -16,15 +16,6 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 - **Pandas Profiling**: Ferramenta rápida e fácil para análise exploratória de dados (EDA).
 - **PyCaret**: Para realizar EDA como parte de um processo de machine learning mais amplo, incluindo modelagem e avaliação de desempenho.
 
-## Referências
-
-- [The dbt Semantic Layer, Data Orchestration, and the Modern Enterprise Data Stack](https://blog.rittmananalytics.com/the-dbt-semantic-layer-data-orchestration-and-the-modern-enterprise-data-stack-78d9d9ed5c18)
-- [Building Up a Semantic Layer with dbt Metrics, Cube, and Droughty](https://odupuis.medium.com/building-up-a-semantic-layer-with-dbt-metrics-cube-and-droughty-2a61b01517a6)
-- [Introducing dbt integration with Cube](https://cube.dev/blog/introducing-dbt-integration-with-cube)
-
-- [Running S3 Object Storage Locally with MinIO](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
-
-
 
 ## Possivel Ferramentas a utilizar
 
@@ -36,4 +27,15 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 - [Apache Superset](https://superset.apache.org/)
 - [Droughty](https://pypi.org/project/droughty/): Ferramenta para construção de camadas semânticas.
 - [Scikit-learn](https://scikit-learn.org/stable/): Biblioteca para modelagem e aprendizado de máquina.
+
+
+## Referências
+
+- [Running S3 Object Storage Locally with MinIO](https://simonjcarr.medium.com/running-s3-object-storage-locally-with-minio-f50540ffc239)
+
+- [The dbt Semantic Layer, Data Orchestration, and the Modern Enterprise Data Stack](https://blog.rittmananalytics.com/the-dbt-semantic-layer-data-orchestration-and-the-modern-enterprise-data-stack-78d9d9ed5c18)
+- [Building Up a Semantic Layer with dbt Metrics, Cube, and Droughty](https://odupuis.medium.com/building-up-a-semantic-layer-with-dbt-metrics-cube-and-droughty-2a61b01517a6)
+- [Introducing dbt integration with Cube](https://cube.dev/blog/introducing-dbt-integration-with-cube)
+
+
 
