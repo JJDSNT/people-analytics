@@ -14,9 +14,9 @@ O objetivo deste projeto é construir uma solução completa de People Analytics
 
 Utilizar o [Apache Superset](https://superset.apache.org/) como plataforma de visualização de dados com suporte a dashboard as code.
 
-## Dashboard de Indicadores de RH
+### Dashboard de Indicadores de RH
 
-### Indicadores Principais
+Possiveis indicadores:
 
 ### 1. Headcount (Contagem de Empregados)
 - **Descrição**: Número total de funcionários na organização.
