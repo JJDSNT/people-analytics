@@ -10,7 +10,7 @@ EDA (Exploratory Data Analysis) - Análise exploratória dos dados
 
 [EDA utilizando o pandas profiling](https://nbviewer.org/github/JJDSNT/people-analytics/blob/main/notebooks/EDA.ipynb)
 
-### Referências
+## Referências
 
 - [How to display a .ipynb file on github?](https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github)
 
