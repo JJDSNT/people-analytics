@@ -66,12 +66,6 @@ Possiveis indicadores:
 - **Fonte de Dados**: `YearsSinceLastPromotion`
 
 
-## Ferramentas de Análise e Modelagem
-
-- **Pandas Profiling**: Ferramenta rápida e fácil para análise exploratória de dados (EDA).
-- **PyCaret**: Para realizar EDA como parte de um processo de machine learning mais amplo, incluindo modelagem e avaliação de desempenho.
-
-
 ## Possivel Ferramentas a utilizar
 
 - [Apache Airflow](https://airflow.apache.org/): Orquestração de dados.
